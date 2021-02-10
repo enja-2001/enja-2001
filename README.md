@@ -20,6 +20,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dsnehasish74&show_icons=true" alt="enja-2001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enja-2001&show_icons=true" alt="enja-2001" /></p>
  </a>
 
