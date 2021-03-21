@@ -7,7 +7,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/dsnehasish74/dsnehasish74/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/dsnehasish74/dsnehasish74/main/techstack.gif" width="260px"/>
   
 ### 🧐 More About Me:
 - 🌱 &nbsp; I’m currently learning Typescript; 
@@ -17,9 +17,12 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 📝 &nbsp; Checkout my [resume]()
 - 📚 &nbsp; When I am free, I love to play chess.  
 <br>
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enja-2001&show_icons=true" alt="enja-2001" /></p>
- </a>
 
+<h2 align="center">🐦 Github Statistics </h2>
+<hr>
+
+|<img src="https://github-readme-stats.vercel.app/api?username=enja-2001&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=enja-2001&theme=radical"/>|
+|---|---|
+<p align = "center">
+<img src="https://activity-graph.herokuapp.com/graph?username=enja-2001&theme=redical">
+</p>
