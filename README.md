@@ -14,7 +14,7 @@ I am a versatilist and easily adapt to different hats (Android App Developer �
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/enja-2001?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/md-enjamum-hossain-a2a46a202/)
-- 📝 &nbsp; Checkout my [resume]()
+- 📝 &nbsp; Checkout my [resume](https://docs.google.com/document/d/1L8cHuhDFq3kditAoAdh4VUURd0VHcY3Qp1fUpw6L7TY/edit?usp=sharing)
 - 📚 &nbsp; I love listening to music...
 <br>
 
