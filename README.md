@@ -9,8 +9,8 @@ I am a versatilist and easily adapt to different hats (Android App Developer �
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/dsnehasish74/dsnehasish74/main/techstack.gif" width="260px"/>
   
-### 🧐 More About Me:
-- 🌱 &nbsp; I’m currently learning ML; 
+### 🧐 More About Myself:
+- 🌱 &nbsp; I’m currently learning Kotlin; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/enja-2001?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/md-enjamum-hossain-a2a46a202/)
@@ -20,4 +20,9 @@ I am a versatilist and easily adapt to different hats (Android App Developer �
 
 <h2 align="center">Github Statistics </h2>
 <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=enja-2001&count_private=true&show_icons=true"/>
+
+
+<p float="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enja-2001&count_private=true&show_icons=true&hide=issues,contribs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enja-2001&langs_count=8"/> 
+</p>
