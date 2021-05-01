@@ -16,3 +16,8 @@ I am a versatilist and easily adapt to different hats (Android App Developer �
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/md-enjamum-hossain-a2a46a202/)
 - 📝 &nbsp; Checkout my [resume](https://docs.google.com/document/d/1L8cHuhDFq3kditAoAdh4VUURd0VHcY3Qp1fUpw6L7TY/edit?usp=sharing)
 - 📚 &nbsp; I love listening to music...
+<br>
+
+<h2 align="center">Github Statistics </h2>
+<hr>
+<img src="https://github-readme-stats.vercel.app/api?username=enja-2001&count_private=true&show_icons=true"/>
