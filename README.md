@@ -10,12 +10,11 @@ I am a versatilist and easily adapt to different hats (Android App Developer �
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/dsnehasish74/dsnehasish74/main/techstack.gif" width="260px"/>
   
 ### 🧐 More About Myself:
-- 🌱 &nbsp; I’m currently learning Kotlin; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/enja-2001?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/md-enjamum-hossain-a2a46a202/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1OWLLnxkNLPUJ5EYcG6RtiXh46n4qmr9m/view?usp=sharing)
-- 📚 &nbsp; I love listening to music...
+- 📚 &nbsp; I love listening to music a lot...
 <br>
 
 <h2 align="center">Github Statistics </h2>
